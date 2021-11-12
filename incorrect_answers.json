@@ -1,0 +1,1374 @@
+[
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r farlig kurva"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r flera farliga kurvor"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r nedf\u00f6rslutning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r stigning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r avsmalnande v\u00e4g"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r bro"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r kaj"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r oj\u00e4mn v\u00e4g"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r farthinder"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r slirig v\u00e4g"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r stenskott"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r stenras"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r \u00f6verg\u00e5ngsst\u00e4lle"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r g\u00e5ende"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r barn"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r cyklande och mopedf\u00f6rare"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r skid\u00e5kare"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r ridande"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r djur"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r v\u00e4garbete"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Slut p\u00e5 str\u00e4cka med v\u00e4garbete"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r flerf\u00e4rgssignal"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r l\u00e5gt flygande flygplan"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r sidvind"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r m\u00f6tande trafik"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r tunnel"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r svag v\u00e4gkant eller h\u00f6g k\u00f6rbanekant"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r v\u00e4gkorsning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r v\u00e4gkorsning d\u00e4r trafikanter p\u00e5 anslutande v\u00e4g har v\u00e4jningsplikt eller stopplikt"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r cirkulationsplats"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r l\u00e5ngsamtg\u00e5ende fordon"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r fordon med f\u00f6rsp\u00e4nt dragdjur"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r terr\u00e4ngskotertrafik"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r k\u00f6"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r j\u00e4rnv\u00e4gskorsning med bommar"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r j\u00e4rnv\u00e4gskorsning utan bommar"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r korsning med sp\u00e5rv\u00e4g utan bommar"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Avst\u00e5nd till plankorsning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Kryssm\u00e4rke"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r annan fara"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "question": " Varning f\u00f6r olycka"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " V\u00e4jningsplikt"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " Stopplikt"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " \u00d6verg\u00e5ngsst\u00e4lle"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " Huvudled"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " Huvudled upph\u00f6r"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " V\u00e4jningsplikt mot m\u00f6tande trafik"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " M\u00f6tande trafik har v\u00e4jningsplikt"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "question": " Cykel\u00f6verfart"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot infart med fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med annat motordrivet fordon \u00e4n moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med motordrivet fordon med fler \u00e4n tv\u00e5 hjul"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med motorcykel och moped klass I"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med motordrivet fordon med tillkopplad sl\u00e4pvagn"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med tung lastbil"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med traktor och motorredskap klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med fordon lastat med farligt gods"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med cykel och moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med fordon f\u00f6rsp\u00e4nt med dragdjur"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med terr\u00e4ngmotorfordon och terr\u00e4ngsl\u00e4p"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot ridning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot g\u00e5ngtrafik"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsad fordonsbredd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsad fordonsh\u00f6jd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsad fordonsl\u00e4ngd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Minsta avst\u00e5nd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsad bruttovikt p\u00e5 fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsad bruttovikt p\u00e5 fordon och fordonst\u00e5g"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " B\u00e4righetsklass"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsat axeltryck"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsat boggitryck"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot sv\u00e4ng i korsning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot U-sv\u00e4ng"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot omk\u00f6rning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Slut p\u00e5 f\u00f6rbud mot omk\u00f6rning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot omk\u00f6rning med tung lastbil"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Slut p\u00e5 f\u00f6rbud mot omk\u00f6rning med tung lastbil"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Hastighetsbegr\u00e4nsning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Tillf\u00e4llig hastighetsbegr\u00e4nsning upph\u00f6r"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Stopp vid tull"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Stopp f\u00f6r angivet \u00e4ndam\u00e5l"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot att parkera fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot att parkera fordon p\u00e5 dag med udda datum"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot att parkera fordon p\u00e5 dag med j\u00e4mnt datum"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Datumparkering"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot att stanna och parkera fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " \u00c4ndam\u00e5lsplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Slut p\u00e5 \u00e4ndam\u00e5lsplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " V\u00e4ndplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Slut p\u00e5 v\u00e4ndplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " F\u00f6rbud mot trafik med annat motordrivet fordon med dubbd\u00e4ck \u00e4n moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " S\u00e4rskilda best\u00e4mmelser f\u00f6r stannande och parkering"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "question": " Begr\u00e4nsat trippelaxeltryck"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden k\u00f6rriktning"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden k\u00f6rbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " Cirkulationsplats"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden cykelbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden g\u00e5ngbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden g\u00e5ng- och cykelbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjudna g\u00e5ng- och cykelbanor"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden ridv\u00e4g"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden led f\u00f6r terr\u00e4ngmotorfordon och terr\u00e4ngsl\u00e4p"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": ""
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " Slut p\u00e5 p\u00e5bjuden bana, k\u00f6rf\u00e4lt, v\u00e4g eller led"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "question": " P\u00e5bjuden k\u00f6rriktning f\u00f6r fordon lastat med farligt gods"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Motorv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Motorv\u00e4g upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Motortrafikled"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Motortrafikled upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " T\u00e4ttbebyggt omr\u00e5de"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " T\u00e4ttbebyggt omr\u00e5de upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " G\u00e5gata"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " G\u00e5gata upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " G\u00e5ngfartsomr\u00e5de"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " G\u00e5ngfartsomr\u00e5de upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Rekommenderad l\u00e4gre hastighet"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Rekommenderad l\u00e4gre hastighet upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Rekommenderad h\u00f6gsta hastighet"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Rekommenderad h\u00f6gsta hastighet upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Sammanv\u00e4vning"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Enkelriktad trafik"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " \u00c5terv\u00e4ndsv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " M\u00f6tesplats"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Parkering"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Omr\u00e5desm\u00e4rke"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Slut p\u00e5 omr\u00e5de"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Bussh\u00e5llplats"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Taxi"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Automatisk trafik\u00f6vervakning"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Betalv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Tunnel"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " N\u00f6duppst\u00e4llningsplats"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " N\u00f6dutg\u00e5ng"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Utrymningsv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " S\u00e4rskilda best\u00e4mmelser f\u00f6r parkering"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Milj\u00f6zon"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Slut p\u00e5 milj\u00f6zon"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Cykelgata"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "question": " Cykelgata upph\u00f6r"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Orienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Orienteringstavla vid f\u00f6rbjuden sv\u00e4ng i korsning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Tabellorienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Avfartsorienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " V\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Tabellv\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Avfartsvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " K\u00f6rf\u00e4ltsv\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Samlingsm\u00e4rke f\u00f6r v\u00e4gvisning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Platsm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " V\u00e4gnamn"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Vattendrag"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Avst\u00e5ndstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " V\u00e4gnummer"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Omledning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " \u00d6kning av antal k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Minskning av antal k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " K\u00f6rf\u00e4ltsindelning p\u00e5 str\u00e4cka"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " V\u00e4ganslutning med accelerationsf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " V\u00e4ganslutning med separat k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " K\u00f6rf\u00e4ltsindelning f\u00f6re korsning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Riksm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Orienteringstavla f\u00f6r omledningsv\u00e4g"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " F\u00e4rdriktning vid omledning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " K\u00f6rf\u00e4lt upph\u00f6r"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " K\u00f6rf\u00e4lt avst\u00e4ngt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Trafikplatsnummer"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Parkeringshus"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Infartsparkering"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Lokal slinga"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " L\u00e4mplig v\u00e4g eller f\u00f6rbifart f\u00f6r visst fordonsslag eller trafikantgrupp"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " Farligt gods"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "question": " R\u00e4ddningsplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "question": " V\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "question": " Tabellv\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "question": " Platsm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "question": " Avst\u00e5ndstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "question": " Cykelled"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Post"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Hj\u00e4lptelefon"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Radiostation f\u00f6r v\u00e4gtrafikinformation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Akutsjukhus"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Industriomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " J\u00e4rnv\u00e4gsstation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Busstation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Flygplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Brandsl\u00e4ckare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Handelsomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " F\u00e4rja"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "question": " Personf\u00e4rja"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Informationsplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Fordonsverkstad"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": "  Drivmedel"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Gas f\u00f6r fordonsdrift"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Servering"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Restaurang"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Hotell"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Vandrarhem"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Stugby"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Stuga"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Campingplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Husvagnsplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Rastplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Toalett"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Badplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Friluftsomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Vandringsled"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Stollift"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Sl\u00e4plift"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Golfbana"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " F\u00f6rs\u00e4ljningsst\u00e4lle f\u00f6r fiskekort"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Sev\u00e4rdhet"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " F\u00f6rberedande upplysning om v\u00e4gn\u00e4ra service"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Rum och frukost"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " G\u00e5rdsbutik"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Hantverk"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Laddstation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "question": " Anl\u00e4ggning som enbart tillhandah\u00e5ller platser f\u00f6r bilar med bostadsutrymme"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "question": " Turistv\u00e4g"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "question": " Turistomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "question": " Landm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "question": " V\u00e4rldsarv"
+  },
+  {
+    "category": " Upplysningsm\u00e4rken",
+    "question": " Upplysningsm\u00e4rke"
+  },
+  {
+    "category": " Upplysningsm\u00e4rken",
+    "question": " Livsfarlig ledning"
+  },
+  {
+    "category": " Symboler",
+    "question": " Tung lastbil"
+  },
+  {
+    "category": " Symboler",
+    "question": " Tung lastbil med tillkopplad sl\u00e4pvagn"
+  },
+  {
+    "category": " Symboler",
+    "question": " Personbil"
+  },
+  {
+    "category": " Symboler",
+    "question": " Personbil med tillkopplad sl\u00e4pk\u00e4rra"
+  },
+  {
+    "category": " Symboler",
+    "question": " Buss"
+  },
+  {
+    "category": " Symboler",
+    "question": " Traktor och motorredskap klass II"
+  },
+  {
+    "category": " Symboler",
+    "question": " Motorcykel"
+  },
+  {
+    "category": " Symboler",
+    "question": " Cykel och moped klass II"
+  },
+  {
+    "category": " Symboler",
+    "question": " Sl\u00e4pk\u00e4rra"
+  },
+  {
+    "category": " Symboler",
+    "question": " G\u00e5ende"
+  },
+  {
+    "category": " Symboler",
+    "question": " R\u00f6relsehindrade"
+  },
+  {
+    "category": " Symboler",
+    "question": " Personbil klass II"
+  },
+  {
+    "category": " Symboler",
+    "question": " Personf\u00e4rja"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " V\u00e4gstr\u00e4ckas l\u00e4ngd"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Avst\u00e5nd"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Avst\u00e5nd till stopplikt"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Fri bredd"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Totalvikt"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Tidsangivelse"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " R\u00f6relsehindrade"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Symboltavla"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Nedsatt syn"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Nedsatt h\u00f6rsel"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Utstr\u00e4ckning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Riktning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Flerv\u00e4gsv\u00e4jning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Flerv\u00e4gsstopp"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " V\u00e4gars forts\u00e4ttning i korsning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Avgift"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Parkeringsskiva"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Till\u00e5ten tid f\u00f6r parkering"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Boende"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Parkeringsbiljett"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Uppst\u00e4llning av fordon"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Text"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Tunnelkategori"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " Laddplats"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "question": " \u00d6ppet dygnet runt"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " R\u00f6d"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " R\u00f6d + gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Gr\u00f6n"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Blinkande gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " R\u00f6d akustisk signal med l\u00e5ngsam pulsfrekvens"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Gr\u00f6n akustisk signal med snabb pulsfrekvens"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " S"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " S+v\u00e5gr\u00e4tt streck"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Lodr\u00e4tt streck eller pil"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " V\u00e5gr\u00e4tt streck"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " R\u00f6tt kryss"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Gul pil eller pilar"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Gr\u00f6n pil"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " R\u00f6tt blinkande ljus"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " R\u00f6tt fast ljus"
+  },
+  {
+    "category": " Trafiksignaler",
+    "question": " Gult blinkande ljus f\u00f6r p\u00e5kallande av s\u00e4rskild f\u00f6rsiktighet"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Mittlinje eller k\u00f6rf\u00e4ltslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Kantlinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Varningslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Ledlinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Cykelf\u00e4ltslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Linje f\u00f6r fordon i linjetrafik med flera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Reversibelt k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Heldragen linje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Sp\u00e4rromr\u00e5de"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Mittlinje eller k\u00f6rf\u00e4ltslinje och heldragen linje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Varningslinje och heldragen linje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Mittlinje och varningslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Stopplinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " V\u00e4jningslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " \u00d6verg\u00e5ngsst\u00e4lle"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Cykelpassage eller cykel\u00f6verfart"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Farthinder"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Cykelbox"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " F\u00f6rberedande upplysning om v\u00e4jningsplikt eller stopplikt"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " K\u00f6rf\u00e4ltspilar"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " K\u00f6rf\u00e4ltsbyte"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " F\u00f6rbud mot att stanna och parkera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " F\u00f6rbud mot att parkera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " F\u00f6rbud mot att stanna och parkera eller att parkera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Uppst\u00e4llningsplats"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " G\u00e5ng- och cykelpil"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Cykel"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " G\u00e5ende"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Buss"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Hastighet"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " V\u00e4gnummer"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " \u00c4ndam\u00e5lsplats"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Stopp"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " R\u00f6relsehindrad"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "question": " Information"
+  },
+  {
+    "category": " Tecken av vakt",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av vakt",
+    "question": " K\u00f6r fram"
+  },
+  {
+    "category": " Tecken av vakt",
+    "question": " K\u00e4nnetecken"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " Markeringspil"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " Markeringssk\u00e4rm f\u00f6r hinder"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " Markeringssk\u00e4rm f\u00f6r sidohinder, farthinder med mera"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " Avfartssk\u00e4rm"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " Gul ljuspil eller ljuspilar"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " S\u00e4rskild varningsanordning"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " V\u00e4gbom"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " X8"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " Cirkulationstrafik"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "question": " Stolpmarkeringsanordning"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " K\u00f6r fram"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " Kontroll"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " F\u00f6rberedande upplysning om kontroll"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " F\u00f6lj efter och stanna bakom polisfordonet n\u00e4r detta stannar"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "question": " K\u00f6r in till v\u00e4gkanten och stanna framf\u00f6r polisfordonet"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "question": " R\u00f6tt blinkande ljus"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "question": " Ljudsignal"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "question": " Bom"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "question": " Plankorsningssk\u00e4rm"
+  }
+]

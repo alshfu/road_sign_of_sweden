@@ -1,0 +1,2403 @@
+[
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a1-1.png",
+    "img_file_name": "A1.png",
+    "question": " Varning f\u00f6r farlig kurva"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a2-1.png",
+    "img_file_name": "A2.png",
+    "question": " Varning f\u00f6r flera farliga kurvor"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a3-1.png",
+    "img_file_name": "A3.png",
+    "question": " Varning f\u00f6r nedf\u00f6rslutning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a4-1.png",
+    "img_file_name": "A4.png",
+    "question": " Varning f\u00f6r stigning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a5-1.png",
+    "img_file_name": "A5.png",
+    "question": " Varning f\u00f6r avsmalnande v\u00e4g"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a6-1.png",
+    "img_file_name": "A6.png",
+    "question": " Varning f\u00f6r bro"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a7-1.png",
+    "img_file_name": "A7.png",
+    "question": " Varning f\u00f6r kaj"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a8-1.png",
+    "img_file_name": "A8.png",
+    "question": " Varning f\u00f6r oj\u00e4mn v\u00e4g"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a9-1.png",
+    "img_file_name": "A9.png",
+    "question": " Varning f\u00f6r farthinder"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a10-1.png",
+    "img_file_name": "A10.png",
+    "question": " Varning f\u00f6r slirig v\u00e4g"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a11-1.png",
+    "img_file_name": "A11.png",
+    "question": " Varning f\u00f6r stenskott"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a12-1.png",
+    "img_file_name": "A12.png",
+    "question": " Varning f\u00f6r stenras"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a13-1.png",
+    "img_file_name": "A13.png",
+    "question": " Varning f\u00f6r \u00f6verg\u00e5ngsst\u00e4lle"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a14-1.jpg",
+    "img_file_name": "A14.jpg",
+    "question": " Varning f\u00f6r g\u00e5ende"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a15-1.png",
+    "img_file_name": "A15.png",
+    "question": " Varning f\u00f6r barn"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a16-1.png",
+    "img_file_name": "A16.png",
+    "question": " Varning f\u00f6r cyklande och mopedf\u00f6rare"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a17-1.png",
+    "img_file_name": "A17.png",
+    "question": " Varning f\u00f6r skid\u00e5kare"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a18-1.png",
+    "img_file_name": "A18.png",
+    "question": " Varning f\u00f6r ridande"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a19-1.png",
+    "img_file_name": "A19.png",
+    "question": " Varning f\u00f6r djur"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a20-1.png",
+    "img_file_name": "A20.png",
+    "question": " Varning f\u00f6r v\u00e4garbete"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a21.jpg",
+    "img_file_name": "A21.JPG.jpg",
+    "question": " Slut p\u00e5 str\u00e4cka med v\u00e4garbete"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a22-1.png",
+    "img_file_name": "A22.png",
+    "question": " Varning f\u00f6r flerf\u00e4rgssignal"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a23-1.png",
+    "img_file_name": "A23.png",
+    "question": " Varning f\u00f6r l\u00e5gt flygande flygplan"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a24-1.png",
+    "img_file_name": "A24.png",
+    "question": " Varning f\u00f6r sidvind"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a25.jpg",
+    "img_file_name": "A25.JPG.jpg",
+    "question": " Varning f\u00f6r m\u00f6tande trafik"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a26-1.png",
+    "img_file_name": "A26.png",
+    "question": " Varning f\u00f6r tunnel"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a27-1.png",
+    "img_file_name": "A27.png",
+    "question": " Varning f\u00f6r svag v\u00e4gkant eller h\u00f6g k\u00f6rbanekant"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a28-1.png",
+    "img_file_name": "A28.png",
+    "question": " Varning f\u00f6r v\u00e4gkorsning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a29-1.png",
+    "img_file_name": "A29.png",
+    "question": " Varning f\u00f6r v\u00e4gkorsning d\u00e4r trafikanter p\u00e5 anslutande v\u00e4g har v\u00e4jningsplikt eller stopplikt"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a30-1.png",
+    "img_file_name": "A30.png",
+    "question": " Varning f\u00f6r cirkulationsplats"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a31-1.jpg",
+    "img_file_name": "A31.jpg",
+    "question": " Varning f\u00f6r l\u00e5ngsamtg\u00e5ende fordon"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a32-1.png",
+    "img_file_name": "A32.png",
+    "question": " Varning f\u00f6r fordon med f\u00f6rsp\u00e4nt dragdjur"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a33-1.png",
+    "img_file_name": "A33.png",
+    "question": " Varning f\u00f6r terr\u00e4ngskotertrafik"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a34-1.png",
+    "img_file_name": "A34.png",
+    "question": " Varning f\u00f6r k\u00f6"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a35-1.png",
+    "img_file_name": "A35.png",
+    "question": " Varning f\u00f6r j\u00e4rnv\u00e4gskorsning med bommar"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a36-1.png",
+    "img_file_name": "A36.png",
+    "question": " Varning f\u00f6r j\u00e4rnv\u00e4gskorsning utan bommar"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a37-1.png",
+    "img_file_name": "A37.png",
+    "question": " Varning f\u00f6r korsning med sp\u00e5rv\u00e4g utan bommar"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a38-1.png",
+    "img_file_name": "A38.png",
+    "question": " Avst\u00e5nd till plankorsning"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a39-1.png",
+    "img_file_name": "A39.png",
+    "question": " Kryssm\u00e4rke"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a40-1.png",
+    "img_file_name": "A40.png",
+    "question": " Varning f\u00f6r annan fara"
+  },
+  {
+    "category": " Varningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/a41.png",
+    "img_file_name": "A41.PNG.png",
+    "question": " Varning f\u00f6r olycka"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b1-1.png",
+    "img_file_name": "B1.png",
+    "question": " V\u00e4jningsplikt"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b2-1.png",
+    "img_file_name": "B2.png",
+    "question": " Stopplikt"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b3-1.png",
+    "img_file_name": "B3.png",
+    "question": " \u00d6verg\u00e5ngsst\u00e4lle"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b4-1.png",
+    "img_file_name": "B4.png",
+    "question": " Huvudled"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b5-1.png",
+    "img_file_name": "B5.png",
+    "question": " Huvudled upph\u00f6r"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b6-1.png",
+    "img_file_name": "B6.png",
+    "question": " V\u00e4jningsplikt mot m\u00f6tande trafik"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/b7-1.png",
+    "img_file_name": "B7.png",
+    "question": " M\u00f6tande trafik har v\u00e4jningsplikt"
+  },
+  {
+    "category": " V\u00e4jningspliktsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/ny-katalog/cykeloverfart/b8_1.png",
+    "img_file_name": "B8_1.PNG.png",
+    "question": " Cykel\u00f6verfart"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c1-1.png",
+    "img_file_name": "C1.png",
+    "question": " F\u00f6rbud mot infart med fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c2-1.png",
+    "img_file_name": "C2.png",
+    "question": " F\u00f6rbud mot trafik med fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c3-1.png",
+    "img_file_name": "C3.png",
+    "question": " F\u00f6rbud mot trafik med annat motordrivet fordon \u00e4n moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c4-1.png",
+    "img_file_name": "C4.png",
+    "question": " F\u00f6rbud mot trafik med motordrivet fordon med fler \u00e4n tv\u00e5 hjul"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c5-1.png",
+    "img_file_name": "C5.png",
+    "question": " F\u00f6rbud mot trafik med motorcykel och moped klass I"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c6-1.png",
+    "img_file_name": "C6.png",
+    "question": " F\u00f6rbud mot trafik med motordrivet fordon med tillkopplad sl\u00e4pvagn"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c7-1.png",
+    "img_file_name": "C7.png",
+    "question": " F\u00f6rbud mot trafik med tung lastbil"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c8-1.png",
+    "img_file_name": "C8.png",
+    "question": " F\u00f6rbud mot trafik med traktor och motorredskap klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c9-1.png",
+    "img_file_name": "C9.png",
+    "question": " F\u00f6rbud mot trafik med fordon lastat med farligt gods"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c10-1.png",
+    "img_file_name": "C10.png",
+    "question": " F\u00f6rbud mot trafik med cykel och moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c11-1.png",
+    "img_file_name": "C11.png",
+    "question": " F\u00f6rbud mot trafik med moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c12-1.png",
+    "img_file_name": "C12.png",
+    "question": " F\u00f6rbud mot trafik med fordon f\u00f6rsp\u00e4nt med dragdjur"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c13-1.png",
+    "img_file_name": "C13.png",
+    "question": " F\u00f6rbud mot trafik med terr\u00e4ngmotorfordon och terr\u00e4ngsl\u00e4p"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c14-1.png",
+    "img_file_name": "C14.png",
+    "question": " F\u00f6rbud mot ridning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c15-1.png",
+    "img_file_name": "C15.png",
+    "question": " F\u00f6rbud mot g\u00e5ngtrafik"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c16-1.png",
+    "img_file_name": "C16.png",
+    "question": " Begr\u00e4nsad fordonsbredd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c17-1.png",
+    "img_file_name": "C17.png",
+    "question": " Begr\u00e4nsad fordonsh\u00f6jd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c18-1.png",
+    "img_file_name": "C18.png",
+    "question": " Begr\u00e4nsad fordonsl\u00e4ngd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c19-1.png",
+    "img_file_name": "C19.png",
+    "question": " Minsta avst\u00e5nd"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c20-1.png",
+    "img_file_name": "C20.png",
+    "question": " Begr\u00e4nsad bruttovikt p\u00e5 fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c21-1.png",
+    "img_file_name": "C21.png",
+    "question": " Begr\u00e4nsad bruttovikt p\u00e5 fordon och fordonst\u00e5g"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c22-1.png",
+    "img_file_name": "C22.png",
+    "question": " B\u00e4righetsklass"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c23-1.png",
+    "img_file_name": "C23.png",
+    "question": " Begr\u00e4nsat axeltryck"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c24-1.png",
+    "img_file_name": "C24.png",
+    "question": " Begr\u00e4nsat boggitryck"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c25-1.png",
+    "img_file_name": "C25.png",
+    "question": " F\u00f6rbud mot sv\u00e4ng i korsning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c26-1.png",
+    "img_file_name": "C26.png",
+    "question": " F\u00f6rbud mot U-sv\u00e4ng"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c27-1.png",
+    "img_file_name": "C27.png",
+    "question": " F\u00f6rbud mot omk\u00f6rning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c28-1.png",
+    "img_file_name": "C28.png",
+    "question": " Slut p\u00e5 f\u00f6rbud mot omk\u00f6rning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c29-1.png",
+    "img_file_name": "C29.png",
+    "question": " F\u00f6rbud mot omk\u00f6rning med tung lastbil"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c30-1.png",
+    "img_file_name": "C30.png",
+    "question": " Slut p\u00e5 f\u00f6rbud mot omk\u00f6rning med tung lastbil"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c31-3.png",
+    "img_file_name": "C31.png",
+    "question": " Hastighetsbegr\u00e4nsning"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c32-3.png",
+    "img_file_name": "C32.png",
+    "question": " Tillf\u00e4llig hastighetsbegr\u00e4nsning upph\u00f6r"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c33-1.png",
+    "img_file_name": "C33.png",
+    "question": " Stopp vid tull"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c34.png",
+    "img_file_name": "C34.PNG.png",
+    "question": " Stopp f\u00f6r angivet \u00e4ndam\u00e5l"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c35-1.png",
+    "img_file_name": "C35.png",
+    "question": " F\u00f6rbud mot att parkera fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c36-1.png",
+    "img_file_name": "C36.png",
+    "question": " F\u00f6rbud mot att parkera fordon p\u00e5 dag med udda datum"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c37-1.png",
+    "img_file_name": "C37.png",
+    "question": " F\u00f6rbud mot att parkera fordon p\u00e5 dag med j\u00e4mnt datum"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c38-1.png",
+    "img_file_name": "C38.png",
+    "question": " Datumparkering"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c39-1.png",
+    "img_file_name": "C39.png",
+    "question": " F\u00f6rbud mot att stanna och parkera fordon"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c40-1.png",
+    "img_file_name": "C40.png",
+    "question": " \u00c4ndam\u00e5lsplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c41-1.png",
+    "img_file_name": "C41.png",
+    "question": " Slut p\u00e5 \u00e4ndam\u00e5lsplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c42-1.png",
+    "img_file_name": "C42.png",
+    "question": " V\u00e4ndplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c43-1.png",
+    "img_file_name": "C43.png",
+    "question": " Slut p\u00e5 v\u00e4ndplats"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c44.png",
+    "img_file_name": "C44.PNG.png",
+    "question": " F\u00f6rbud mot trafik med annat motordrivet fordon med dubbd\u00e4ck \u00e4n moped klass II"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c45.png",
+    "img_file_name": "C45.PNG.png",
+    "question": " S\u00e4rskilda best\u00e4mmelser f\u00f6r stannande och parkering"
+  },
+  {
+    "category": " F\u00f6rbudsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/c46.png",
+    "img_file_name": "C46.PNG.png",
+    "question": " Begr\u00e4nsat trippelaxeltryck"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d1-1.png",
+    "img_file_name": "D1.png",
+    "question": " P\u00e5bjuden k\u00f6rriktning"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d2-1.png",
+    "img_file_name": "D2.png",
+    "question": " P\u00e5bjuden k\u00f6rbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d3-1.png",
+    "img_file_name": "D3.png",
+    "question": " Cirkulationsplats"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d4-1.png",
+    "img_file_name": "D4.png",
+    "question": " P\u00e5bjuden cykelbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d5-1.png",
+    "img_file_name": "D5.png",
+    "question": " P\u00e5bjuden g\u00e5ngbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d6-1.png",
+    "img_file_name": "D6.png",
+    "question": " P\u00e5bjuden g\u00e5ng- och cykelbana"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d7-1.png",
+    "img_file_name": "D7.png",
+    "question": " P\u00e5bjudna g\u00e5ng- och cykelbanor"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d8-1.png",
+    "img_file_name": "D8.png",
+    "question": " P\u00e5bjuden ridv\u00e4g"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d9-1.png",
+    "img_file_name": "D9.png",
+    "question": " P\u00e5bjuden led f\u00f6r terr\u00e4ngmotorfordon och terr\u00e4ngsl\u00e4p"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d10-1.png",
+    "img_file_name": "D10.png",
+    "question": ""
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d11-1.png",
+    "img_file_name": "D11.png",
+    "question": " Slut p\u00e5 p\u00e5bjuden bana, k\u00f6rf\u00e4lt, v\u00e4g eller led"
+  },
+  {
+    "category": " P\u00e5budsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/d12-1.png",
+    "img_file_name": "D12.png",
+    "question": " P\u00e5bjuden k\u00f6rriktning f\u00f6r fordon lastat med farligt gods"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e1-1.jpg",
+    "img_file_name": "E1.jpg",
+    "question": " Motorv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e2-1.png",
+    "img_file_name": "E2.png",
+    "question": " Motorv\u00e4g upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e3-1.png",
+    "img_file_name": "E3.png",
+    "question": " Motortrafikled"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e4-1.png",
+    "img_file_name": "E4.png",
+    "question": " Motortrafikled upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e5-1.png",
+    "img_file_name": "E5.png",
+    "question": " T\u00e4ttbebyggt omr\u00e5de"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e6-1.png",
+    "img_file_name": "E6.png",
+    "question": " T\u00e4ttbebyggt omr\u00e5de upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e7-1.png",
+    "img_file_name": "E7.png",
+    "question": " G\u00e5gata"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e8-1.png",
+    "img_file_name": "E8.png",
+    "question": " G\u00e5gata upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e9-1.png",
+    "img_file_name": "E9.png",
+    "question": " G\u00e5ngfartsomr\u00e5de"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e10-1.png",
+    "img_file_name": "E10.png",
+    "question": " G\u00e5ngfartsomr\u00e5de upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e11-1.png",
+    "img_file_name": "E11.png",
+    "question": " Rekommenderad l\u00e4gre hastighet"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e12-1.png",
+    "img_file_name": "E12.png",
+    "question": " Rekommenderad l\u00e4gre hastighet upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e13-1.png",
+    "img_file_name": "E13.png",
+    "question": " Rekommenderad h\u00f6gsta hastighet"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e14-1.png",
+    "img_file_name": "E14.png",
+    "question": " Rekommenderad h\u00f6gsta hastighet upph\u00f6r"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e15-1.png",
+    "img_file_name": "E15.png",
+    "question": " Sammanv\u00e4vning"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e16-1.png",
+    "img_file_name": "E16.png",
+    "question": " Enkelriktad trafik"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e17-1.png",
+    "img_file_name": "E17.png",
+    "question": " \u00c5terv\u00e4ndsv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e18-1.png",
+    "img_file_name": "E18.png",
+    "question": " M\u00f6tesplats"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e19-1.png",
+    "img_file_name": "E19.png",
+    "question": " Parkering"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e20-1.png",
+    "img_file_name": "E20.png",
+    "question": " Omr\u00e5desm\u00e4rke"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e21-1.png",
+    "img_file_name": "E21.png",
+    "question": " Slut p\u00e5 omr\u00e5de"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e22-1.png",
+    "img_file_name": "E22.png",
+    "question": " Bussh\u00e5llplats"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e23-1.png",
+    "img_file_name": "E23.png",
+    "question": " Taxi"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e24-1.png",
+    "img_file_name": "E24.png",
+    "question": " Automatisk trafik\u00f6vervakning"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e25-1.png",
+    "img_file_name": "E25.png",
+    "question": " Betalv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e26-1.png",
+    "img_file_name": "E26.png",
+    "question": " Tunnel"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e27-1.png",
+    "img_file_name": "E27.png",
+    "question": " N\u00f6duppst\u00e4llningsplats"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e28-1.png",
+    "img_file_name": "E28.png",
+    "question": " N\u00f6dutg\u00e5ng"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e29-1.png",
+    "img_file_name": "E29.png",
+    "question": " Utrymningsv\u00e4g"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e30.png",
+    "img_file_name": "E30.PNG.png",
+    "question": " S\u00e4rskilda best\u00e4mmelser f\u00f6r parkering"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e31-1.png",
+    "img_file_name": "E31.png",
+    "question": " Milj\u00f6zon"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e32-1.png",
+    "img_file_name": "E32.png",
+    "question": " Slut p\u00e5 milj\u00f6zon"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e33-cykelgata.jpg",
+    "img_file_name": "E33.jpg",
+    "question": " Cykelgata"
+  },
+  {
+    "category": " Anvisningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/e34-cykelgata-upphor.jpg",
+    "img_file_name": "E34.jpg",
+    "question": " Cykelgata upph\u00f6r"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f1-1.png",
+    "img_file_name": "F1.png",
+    "question": " Orienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f2-1.png",
+    "img_file_name": "F2.png",
+    "question": " Orienteringstavla vid f\u00f6rbjuden sv\u00e4ng i korsning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f3-1.png",
+    "img_file_name": "F3.png",
+    "question": " Tabellorienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f4-1.png",
+    "img_file_name": "F4.png",
+    "question": " Avfartsorienteringstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f5-1.png",
+    "img_file_name": "F5.png",
+    "question": " V\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f6-1.png",
+    "img_file_name": "F6.png",
+    "question": " Tabellv\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f7-1.png",
+    "img_file_name": "F7.png",
+    "question": " Avfartsvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f8-1.png",
+    "img_file_name": "F8.png",
+    "question": " K\u00f6rf\u00e4ltsv\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f9-1.png",
+    "img_file_name": "F9.png",
+    "question": " Samlingsm\u00e4rke f\u00f6r v\u00e4gvisning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f10-1.png",
+    "img_file_name": "F10.png",
+    "question": " Platsm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f11-1.png",
+    "img_file_name": "F11.png",
+    "question": " V\u00e4gnamn"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f12-1.png",
+    "img_file_name": "F12.png",
+    "question": " Vattendrag"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f13-1.png",
+    "img_file_name": "F13.png",
+    "question": " Avst\u00e5ndstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f14-1.png",
+    "img_file_name": "F14.png",
+    "question": " V\u00e4gnummer"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f15-1.png",
+    "img_file_name": "F15.png",
+    "question": " Omledning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f16-1.png",
+    "img_file_name": "F16.png",
+    "question": " \u00d6kning av antal k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f17-1.png",
+    "img_file_name": "F17.png",
+    "question": " Minskning av antal k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f18-1.png",
+    "img_file_name": "F18.png",
+    "question": " K\u00f6rf\u00e4ltsindelning p\u00e5 str\u00e4cka"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f19-1.png",
+    "img_file_name": "F19.png",
+    "question": " V\u00e4ganslutning med accelerationsf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f20-1.png",
+    "img_file_name": "F20.png",
+    "question": " V\u00e4ganslutning med separat k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f21-1.png",
+    "img_file_name": "F21.png",
+    "question": " K\u00f6rf\u00e4ltsindelning f\u00f6re korsning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f22-1.png",
+    "img_file_name": "F22.png",
+    "question": " Riksm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f23-1.png",
+    "img_file_name": "F23.png",
+    "question": " Orienteringstavla f\u00f6r omledningsv\u00e4g"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f24-1.png",
+    "img_file_name": "F24.png",
+    "question": " F\u00e4rdriktning vid omledning"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f25-1.png",
+    "img_file_name": "F25.png",
+    "question": " K\u00f6rf\u00e4lt upph\u00f6r"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f26-1.png",
+    "img_file_name": "F26.png",
+    "question": " K\u00f6rf\u00e4lt avst\u00e4ngt"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f27-1.png",
+    "img_file_name": "F27.png",
+    "question": " Trafikplatsnummer"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f28-1.png",
+    "img_file_name": "F28.png",
+    "question": " Parkeringshus"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f29-1.png",
+    "img_file_name": "F29.png",
+    "question": " Infartsparkering"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f30-1.png",
+    "img_file_name": "F30.png",
+    "question": " Lokal slinga"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f31-1.png",
+    "img_file_name": "F31.png",
+    "question": " L\u00e4mplig v\u00e4g eller f\u00f6rbifart f\u00f6r visst fordonsslag eller trafikantgrupp"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f32-1.png",
+    "img_file_name": "F32.png",
+    "question": " Farligt gods"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f33-1.png",
+    "img_file_name": "F33.png",
+    "question": " R\u00e4ddningsplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f34-1.png",
+    "img_file_name": "F34.png",
+    "question": " V\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f35-1.png",
+    "img_file_name": "F35.png",
+    "question": " Tabellv\u00e4gvisare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f36-1.png",
+    "img_file_name": "F36.png",
+    "question": " Platsm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f37-1.png",
+    "img_file_name": "F37.png",
+    "question": " Avst\u00e5ndstavla"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r v\u00e4gvisning av g\u00e5ng- och cykeltrafik",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/f38-1.png",
+    "img_file_name": "F38.png",
+    "question": " Cykelled"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/73aa9e3e3ff74b75b6a51f25568c5dbb/laddahem/g1-1.png",
+    "img_file_name": "G1.png",
+    "question": " Post"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/367e6313af084754b1a37cf6d6d6b808/laddahem/g2-1.png",
+    "img_file_name": "G2.png",
+    "question": " Hj\u00e4lptelefon"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/575601228fdf4871b1357e7d450dfab3/laddahem/g3-1.png",
+    "img_file_name": "G3.png",
+    "question": " Radiostation f\u00f6r v\u00e4gtrafikinformation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/c67d1e0d2d044dc3aad46756a95e1909/laddahem/g4-1.png",
+    "img_file_name": "G4.png",
+    "question": " Akutsjukhus"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/9016eeab713146f5b4e1e63555514cc4/laddahem/g5-1.png",
+    "img_file_name": "G5.png",
+    "question": " Industriomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/5589ae77e67b4c6a814a333cf2875754/laddahem/g6-1.png",
+    "img_file_name": "G6.png",
+    "question": " J\u00e4rnv\u00e4gsstation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/0c24e94efe0341d19490cc333da598af/laddahem/g7.png",
+    "img_file_name": "G7.PNG.png",
+    "question": " Busstation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/6fa4ad45445542ff91f17a30d7c53367/laddahem/g8-1.png",
+    "img_file_name": "G8.png",
+    "question": " Flygplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/63a26786cc3a4c10a1d03bb8361f5068/laddahem/g9-1.png",
+    "img_file_name": "G9.png",
+    "question": " Brandsl\u00e4ckare"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/edfe079945414716a46eaa52df646b7f/laddahem/g10.png",
+    "img_file_name": "G10.PNG.png",
+    "question": " Handelsomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/b13c77c8657a4872b7358e66e9816506/laddahem/g11.png",
+    "img_file_name": "G11.PNG.png",
+    "question": " F\u00e4rja"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om allm\u00e4nna inr\u00e4ttningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//contentassets/2a94a45d2a434d97bcd0fa713e74f9d1/laddahem/g12.png",
+    "img_file_name": "G12.PNG.png",
+    "question": " Personf\u00e4rja"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h1-1.png",
+    "img_file_name": "H1.png",
+    "question": " Informationsplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h2-1.png",
+    "img_file_name": "H2.png",
+    "question": " Fordonsverkstad"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h3-1.png",
+    "img_file_name": "H3.png",
+    "question": "  Drivmedel"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h4-1.png",
+    "img_file_name": "H4.png",
+    "question": " Gas f\u00f6r fordonsdrift"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h5-1.png",
+    "img_file_name": "H5.png",
+    "question": " Servering"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h6-1.png",
+    "img_file_name": "H6.png",
+    "question": " Restaurang"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h7-1.png",
+    "img_file_name": "H7.png",
+    "question": " Hotell"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h8-1.png",
+    "img_file_name": "H8.png",
+    "question": " Vandrarhem"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h9-1.png",
+    "img_file_name": "H9.png",
+    "question": " Stugby"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h10-1.png",
+    "img_file_name": "H10.png",
+    "question": " Stuga"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h11-1.png",
+    "img_file_name": "H11.png",
+    "question": " Campingplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h12-1.png",
+    "img_file_name": "H12.png",
+    "question": " Husvagnsplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h13-1.png",
+    "img_file_name": "H13.png",
+    "question": " Rastplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h14-1.png",
+    "img_file_name": "H14.png",
+    "question": " Toalett"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h15-1.png",
+    "img_file_name": "H15.png",
+    "question": " Badplats"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h16-1.png",
+    "img_file_name": "H16.png",
+    "question": " Friluftsomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h17-1.png",
+    "img_file_name": "H17.png",
+    "question": " Vandringsled"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h18-1.png",
+    "img_file_name": "H18.png",
+    "question": " Stollift"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h19-1.png",
+    "img_file_name": "H19.png",
+    "question": " Sl\u00e4plift"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h20-1.png",
+    "img_file_name": "H20.png",
+    "question": " Golfbana"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h21-1.png",
+    "img_file_name": "H21.png",
+    "question": " F\u00f6rs\u00e4ljningsst\u00e4lle f\u00f6r fiskekort"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h22-1.png",
+    "img_file_name": "H22.png",
+    "question": " Sev\u00e4rdhet"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h23.png",
+    "img_file_name": "H23.PNG.png",
+    "question": " F\u00f6rberedande upplysning om v\u00e4gn\u00e4ra service"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h24-1.png",
+    "img_file_name": "H24.png",
+    "question": " Rum och frukost"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h25.png",
+    "img_file_name": "H25.PNG.png",
+    "question": " G\u00e5rdsbutik"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h26.png",
+    "img_file_name": "H26.PNG.png",
+    "question": " Hantverk"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h27.png",
+    "img_file_name": "H27.PNG.png",
+    "question": " Laddstation"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r upplysning om serviceanl\u00e4ggningar med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/h28.png",
+    "img_file_name": "H28.PNG.png",
+    "question": " Anl\u00e4ggning som enbart tillhandah\u00e5ller platser f\u00f6r bilar med bostadsutrymme"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i1-1.png",
+    "img_file_name": "I1.png",
+    "question": " Turistv\u00e4g"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i2-1.png",
+    "img_file_name": "I2.png",
+    "question": " Turistomr\u00e5de"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i3-1.png",
+    "img_file_name": "I3.png",
+    "question": " Landm\u00e4rke"
+  },
+  {
+    "category": " Lokaliseringsm\u00e4rken f\u00f6r turistiskt intressanta m\u00e5l med mera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/i4-1.png",
+    "img_file_name": "I4.png",
+    "question": " V\u00e4rldsarv"
+  },
+  {
+    "category": " Upplysningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/j2-1.png",
+    "img_file_name": "J2.png",
+    "question": " Upplysningsm\u00e4rke"
+  },
+  {
+    "category": " Upplysningsm\u00e4rken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/j3-1.png",
+    "img_file_name": "J3.png",
+    "question": " Livsfarlig ledning"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s1.1.jpg",
+    "img_file_name": "S1.1.JPG.jpg",
+    "question": " Tung lastbil"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s2-1.png",
+    "img_file_name": "S2.png",
+    "question": " Tung lastbil med tillkopplad sl\u00e4pvagn"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s3-1.png",
+    "img_file_name": "S3.png",
+    "question": " Personbil"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s4-1.png",
+    "img_file_name": "S4.png",
+    "question": " Personbil med tillkopplad sl\u00e4pk\u00e4rra"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s5-1.png",
+    "img_file_name": "S5.png",
+    "question": " Buss"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s6-1.png",
+    "img_file_name": "S6.png",
+    "question": " Traktor och motorredskap klass II"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s7-1.png",
+    "img_file_name": "S7.png",
+    "question": " Motorcykel"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s8-1.png",
+    "img_file_name": "S8.png",
+    "question": " Cykel och moped klass II"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s9-1.png",
+    "img_file_name": "S9.png",
+    "question": " Sl\u00e4pk\u00e4rra"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s10-1.png",
+    "img_file_name": "S10.png",
+    "question": " G\u00e5ende"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s11-1.png",
+    "img_file_name": "S11.png",
+    "question": " R\u00f6relsehindrade"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s12.gif",
+    "img_file_name": "S12.GIF.gif",
+    "question": " Personbil klass II"
+  },
+  {
+    "category": " Symboler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/s13-1.png",
+    "img_file_name": "S13.png",
+    "question": " Personf\u00e4rja"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t1.png",
+    "img_file_name": "T1.PNG.png",
+    "question": " V\u00e4gstr\u00e4ckas l\u00e4ngd"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t2-1.png",
+    "img_file_name": "T2.png",
+    "question": " Avst\u00e5nd"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t3-1.png",
+    "img_file_name": "T3.png",
+    "question": " Avst\u00e5nd till stopplikt"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t4-1.png",
+    "img_file_name": "T4.png",
+    "question": " Fri bredd"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t5.png",
+    "img_file_name": "T5.PNG.png",
+    "question": " Totalvikt"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t6-1.png",
+    "img_file_name": "T6.png",
+    "question": " Tidsangivelse"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t7-1.jpg",
+    "img_file_name": "T7.jpg",
+    "question": " R\u00f6relsehindrade"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t8-1.png",
+    "img_file_name": "T8.png",
+    "question": " Symboltavla"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t9-1.png",
+    "img_file_name": "T9.png",
+    "question": " Nedsatt syn"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t10.png",
+    "img_file_name": "T10.PNG.png",
+    "question": " Nedsatt h\u00f6rsel"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t11-1.png",
+    "img_file_name": "T11.png",
+    "question": " Utstr\u00e4ckning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t12-1.png",
+    "img_file_name": "T12.png",
+    "question": " Riktning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t13-1.png",
+    "img_file_name": "T13.png",
+    "question": " Flerv\u00e4gsv\u00e4jning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t14-1.png",
+    "img_file_name": "T14.png",
+    "question": " Flerv\u00e4gsstopp"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t15-1.png",
+    "img_file_name": "T15.png",
+    "question": " V\u00e4gars forts\u00e4ttning i korsning"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t16.png",
+    "img_file_name": "T16.PNG.png",
+    "question": " Avgift"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t17-1.png",
+    "img_file_name": "T17.png",
+    "question": " Parkeringsskiva"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t18.png",
+    "img_file_name": "T18.PNG.png",
+    "question": " Till\u00e5ten tid f\u00f6r parkering"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t19.png",
+    "img_file_name": "T19.PNG.png",
+    "question": " Boende"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t20.png",
+    "img_file_name": "T20.PNG.png",
+    "question": " Parkeringsbiljett"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t21-1.png",
+    "img_file_name": "T21.png",
+    "question": " Uppst\u00e4llning av fordon"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t22-1.png",
+    "img_file_name": "T22.png",
+    "question": " Text"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t23-1.jpg",
+    "img_file_name": "T23.jpg",
+    "question": " Tunnelkategori"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t24-1.png",
+    "img_file_name": "T24.png",
+    "question": " Laddplats"
+  },
+  {
+    "category": " Till\u00e4ggstavlor",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/t25-1.png",
+    "img_file_name": "T25.png",
+    "question": " \u00d6ppet dygnet runt"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig1-1.png",
+    "img_file_name": "SIG1.png",
+    "question": " R\u00f6d"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig2-1.png",
+    "img_file_name": "SIG2.png",
+    "question": " R\u00f6d + gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig3-1.png",
+    "img_file_name": "SIG3.png",
+    "question": " Gr\u00f6n"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig4-1.png",
+    "img_file_name": "SIG4.png",
+    "question": " Gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig5-1.png",
+    "img_file_name": "SIG5.png",
+    "question": " Blinkande gul"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig6-1.png",
+    "img_file_name": "SIG6.png",
+    "question": " R\u00f6d akustisk signal med l\u00e5ngsam pulsfrekvens"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig7-1.png",
+    "img_file_name": "SIG7.png",
+    "question": " Gr\u00f6n akustisk signal med snabb pulsfrekvens"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig8-1.png",
+    "img_file_name": "SIG8.png",
+    "question": " S"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig9-1.png",
+    "img_file_name": "SIG9.png",
+    "question": " S+v\u00e5gr\u00e4tt streck"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig10-1.png",
+    "img_file_name": "SIG10.png",
+    "question": " Lodr\u00e4tt streck eller pil"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig11-1.png",
+    "img_file_name": "SIG11.png",
+    "question": " V\u00e5gr\u00e4tt streck"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig12-1.png",
+    "img_file_name": "SIG12.png",
+    "question": " R\u00f6tt kryss"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig13-1.png",
+    "img_file_name": "SIG13.png",
+    "question": " Gul pil eller pilar"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig14-1.png",
+    "img_file_name": "SIG14.png",
+    "question": " Gr\u00f6n pil"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig16-1.png",
+    "img_file_name": "SIG16.png",
+    "question": " R\u00f6tt blinkande ljus"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig17-1.png",
+    "img_file_name": "SIG17.png",
+    "question": " R\u00f6tt fast ljus"
+  },
+  {
+    "category": " Trafiksignaler",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/sig18-1.png",
+    "img_file_name": "SIG18.png",
+    "question": " Gult blinkande ljus f\u00f6r p\u00e5kallande av s\u00e4rskild f\u00f6rsiktighet"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m1-1.png",
+    "img_file_name": "M1.png",
+    "question": " Mittlinje eller k\u00f6rf\u00e4ltslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m2-1.png",
+    "img_file_name": "M2.png",
+    "question": " Kantlinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m3-1.png",
+    "img_file_name": "M3.png",
+    "question": " Varningslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m4-1.png",
+    "img_file_name": "M4.png",
+    "question": " Ledlinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m5-1.png",
+    "img_file_name": "M5.png",
+    "question": " Cykelf\u00e4ltslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m6-1.png",
+    "img_file_name": "M6.png",
+    "question": " Linje f\u00f6r fordon i linjetrafik med flera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m7-1.png",
+    "img_file_name": "M7.png",
+    "question": " Reversibelt k\u00f6rf\u00e4lt"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m8-1.png",
+    "img_file_name": "M8.png",
+    "question": " Heldragen linje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m9-1.png",
+    "img_file_name": "M9.png",
+    "question": " Sp\u00e4rromr\u00e5de"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m10-1.png",
+    "img_file_name": "M10.png",
+    "question": " Mittlinje eller k\u00f6rf\u00e4ltslinje och heldragen linje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m11-1.png",
+    "img_file_name": "M11.png",
+    "question": " Varningslinje och heldragen linje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m12-1.png",
+    "img_file_name": "M12.png",
+    "question": " Mittlinje och varningslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m13-1.png",
+    "img_file_name": "M13.png",
+    "question": " Stopplinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m14-1.png",
+    "img_file_name": "M14.png",
+    "question": " V\u00e4jningslinje"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m15-1.png",
+    "img_file_name": "M15.png",
+    "question": " \u00d6verg\u00e5ngsst\u00e4lle"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m16-1.jpg",
+    "img_file_name": "M16.jpg",
+    "question": " Cykelpassage eller cykel\u00f6verfart"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m17-1.png",
+    "img_file_name": "M17.png",
+    "question": " Farthinder"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m17a-cykelbox.png",
+    "img_file_name": "M17A.png",
+    "question": " Cykelbox"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m18-1.png",
+    "img_file_name": "M18.png",
+    "question": " F\u00f6rberedande upplysning om v\u00e4jningsplikt eller stopplikt"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m19-1.png",
+    "img_file_name": "M19.png",
+    "question": " K\u00f6rf\u00e4ltspilar"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m20-1.png",
+    "img_file_name": "M20.png",
+    "question": " K\u00f6rf\u00e4ltsbyte"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m21-1.png",
+    "img_file_name": "M21.png",
+    "question": " F\u00f6rbud mot att stanna och parkera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m22-1.png",
+    "img_file_name": "M22.png",
+    "question": " F\u00f6rbud mot att parkera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m23-1.png",
+    "img_file_name": "M23.png",
+    "question": " F\u00f6rbud mot att stanna och parkera eller att parkera"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m24-1.png",
+    "img_file_name": "M24.png",
+    "question": " Uppst\u00e4llningsplats"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m25-1.png",
+    "img_file_name": "M25.png",
+    "question": " G\u00e5ng- och cykelpil"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m26-1.png",
+    "img_file_name": "M26.png",
+    "question": " Cykel"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m27-1.png",
+    "img_file_name": "M27.png",
+    "question": " G\u00e5ende"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m28-1.png",
+    "img_file_name": "M28.png",
+    "question": " Buss"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m29-1.png",
+    "img_file_name": "M29.png",
+    "question": " Hastighet"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m30.png",
+    "img_file_name": "M30.PNG.png",
+    "question": " V\u00e4gnummer"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m31-1.png",
+    "img_file_name": "M31.png",
+    "question": " \u00c4ndam\u00e5lsplats"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m32-1.png",
+    "img_file_name": "M32.png",
+    "question": " Stopp"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m33-1.png",
+    "img_file_name": "M33.png",
+    "question": " R\u00f6relsehindrad"
+  },
+  {
+    "category": " V\u00e4gmarkeringar",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/m34-1.png",
+    "img_file_name": "M34.png",
+    "question": " Information"
+  },
+  {
+    "category": " Tecken av vakt",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/v1.png",
+    "img_file_name": "V1.PNG.png",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av vakt",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/v2.png",
+    "img_file_name": "V2.PNG.png",
+    "question": " K\u00f6r fram"
+  },
+  {
+    "category": " Tecken av vakt",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/v3.png",
+    "img_file_name": "V3.PNG.png",
+    "question": " K\u00e4nnetecken"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x1.png",
+    "img_file_name": "X1.PNG.png",
+    "question": " Markeringspil"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x2-1.png",
+    "img_file_name": "X2.png",
+    "question": " Markeringssk\u00e4rm f\u00f6r hinder"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x3-1.png",
+    "img_file_name": "X3.png",
+    "question": " Markeringssk\u00e4rm f\u00f6r sidohinder, farthinder med mera"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x4-1.png",
+    "img_file_name": "X4.png",
+    "question": " Avfartssk\u00e4rm"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x5-1.png",
+    "img_file_name": "X5.png",
+    "question": " Gul ljuspil eller ljuspilar"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x6-1.png",
+    "img_file_name": "X6.png",
+    "question": " S\u00e4rskild varningsanordning"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x7-1.png",
+    "img_file_name": "X7.png",
+    "question": " V\u00e4gbom"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x8-1.gif",
+    "img_file_name": "X8.gif",
+    "question": " X8"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x9-1.png",
+    "img_file_name": "X9.png",
+    "question": " Cirkulationstrafik"
+  },
+  {
+    "category": " Andra anordningar f\u00f6r anvisningar f\u00f6r trafiken",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/x10.png",
+    "img_file_name": "X10.PNG.png",
+    "question": " Stolpmarkeringsanordning"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p1-1.png",
+    "img_file_name": "P1.png",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p2-1.png",
+    "img_file_name": "P2.png",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p3-1.png",
+    "img_file_name": "P3.png",
+    "question": " Stopp"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p4-1.png",
+    "img_file_name": "P4.png",
+    "question": " K\u00f6r fram"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p5-1.png",
+    "img_file_name": "P5.png",
+    "question": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p6-1.png",
+    "img_file_name": "P6.png",
+    "question": " Kontroll"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p7-1.png",
+    "img_file_name": "P7.png",
+    "question": " F\u00f6rberedande upplysning om kontroll"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p8-1.png",
+    "img_file_name": "P8.png",
+    "question": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p9-1.png",
+    "img_file_name": "P9.png",
+    "question": " Minska hastigheten"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p10-1.png",
+    "img_file_name": "P10.png",
+    "question": " F\u00f6lj efter och stanna bakom polisfordonet n\u00e4r detta stannar"
+  },
+  {
+    "category": " Tecken av polisman med flera",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/p11-1.png",
+    "img_file_name": "P11.png",
+    "question": " K\u00f6r in till v\u00e4gkanten och stanna framf\u00f6r polisfordonet"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y1.png",
+    "img_file_name": "Y1.PNG.png",
+    "question": " R\u00f6tt blinkande ljus"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y2-1.gif",
+    "img_file_name": "Y2.gif",
+    "question": " Ljudsignal"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y3-1.png",
+    "img_file_name": "Y3.png",
+    "question": " Bom"
+  },
+  {
+    "category": " Signaler vid korsning med j\u00e4rnv\u00e4g eller sp\u00e5rv\u00e4g",
+    "type": "multiple",
+    "img_url": "https://www.transportstyrelsen.se//globalassets/global/vag/vagmarken/vagmarken-nedladdning/y4.png",
+    "img_file_name": "Y4.PNG.png",
+    "question": " Plankorsningssk\u00e4rm"
+  }
+]
